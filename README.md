@@ -1,6 +1,8 @@
 # ApacheKafka-SpringBoot
 Producer-Consumer
 
+https://kafka.apache.org/downloads Binary Downloads 2.12
+
 Her komut bin\windows dizininde
 
 zookeeper start
